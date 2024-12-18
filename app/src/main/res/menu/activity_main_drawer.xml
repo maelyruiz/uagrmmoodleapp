@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/profile_call" />
+        <item
+            android:id="@+id/nav_courses"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/courses_call" />
+        <item
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/calendar_call" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/logout_call" />
+
+    </group>
+
+    <item android:title="@string/useful_call">
+        <menu>
+            <item
+                android:id="@+id/nav_tutorials"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/tutorials_call" />
+            <item
+                android:id="@+id/nav_it"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/it_call" />
+        </menu>
+    </item>
+
+</menu>

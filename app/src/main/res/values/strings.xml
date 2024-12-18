@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UAGRM App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Nombre de usuario</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="prompt_captcha">Ingrese el valor</string>
+    <string name="profile_call">Mi perfil</string>
+    <string name="courses_call">Mis cursos</string>
+    <string name="calendar_call">Mi calendario</string>
+    <string name="useful_call">Utilidades</string>
+    <string name="tutorials_call">Manuales</string>
+    <string name="it_call">Soporte técnico</string>
+    <string name="logout_call">Cerrar sesión</string>
+</resources>

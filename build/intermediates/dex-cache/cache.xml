@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/.android/build-cache/89a3ec6f3f8938de33e503598881386dc2f36c86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99b408b48e6d8cdf9cc7e71a06345a1a92e58012/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/.android/build-cache/ff448c5269a5454c148341dd4e4d9fcca5a07e0a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68cc06a349fae618e98be1ef3a36dd34b3d21b31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/.android/build-cache/af9567fcf819911c0a52a06bdcadc5afddd5a428/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c33e89522f7abbf76710df2d94ed517fe6a3afee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/libs/gson-2.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="42a24d508f5e05bd22cc42bd2e2babd7b5466ec9">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.1_544fb5b9605f95534c937b9d8ae103e9f78bfc9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/.android/build-cache/742f6e2d0e33457d320737a5ea3d0014852b95c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c4e1021e6c496f60517fc8cd23f897006e20b3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_b70163bd9c6e4bed57ef07d59c38f470eabca756/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/.android/build-cache/59408b492f73e5c6aae8ce1fcc066f49118e2208/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a131fb94bed266c704ae1c89382ba468c31e6e6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a080a11f39429b919440aae97a97b57ea35a98f6">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_91a97b1fdfbca28d2fa27ae501caf7ba53686425/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/.android/build-cache/6ec0450a2bf742002331ddf8bddb7dc6c794d6cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_416d986a75369cdcf10dcd59c83403dae536529e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/.android/build-cache/3e5a2447aeacf0ce722a14aa9f6c60298ff3b51c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf2fb60a1d966c6a0b75317efec94ddf77ebb5a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fc7b22c3106bbfa7088fb80eb730c49669bef489/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/.android/build-cache/af4646e5eba5393d13217501ddc7929dce2277fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1d84c797b50a365f6b1d7e0710c3dbee6c0ec35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/libs/ksoap2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f8ddd5d69d8cdc994cde9af278ff79b06365eee3">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/ksoap2_90756db0c7bc0db267c11999d8080efaa8daef32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/.android/build-cache/e92498bfaca7311957382c5d0771d175fa9f06e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ee19cdd40a2df2ffd689d2958fa8382f935c2ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/.android/build-cache/15ba1fe4bff68db49f53657ebd4d5c53a9ba5eac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f8fa4c4c4dcf2ec86ad744a64afcf5213de324f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/.android/build-cache/33944c7be64ba7cce7d0ac21209462e2f33838b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bd6b735c5b6d7323a46f137bc92dd9b345ac9a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maelyruiz/.android/build-cache/36d679ef3be850e39fe78e6ca9f9fa702066f57a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/maelyruiz/Documents/Oigo/UAGRMApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4220819262d85a0eb8af4fbc42ca0c9f7504e34/classes.dex" />
+    </item>
+
+</items>
